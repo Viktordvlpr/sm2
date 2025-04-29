@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|solutionrelative:OOP_lab_2.6\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237B8E18-EC3B-4C17-9812-90FD44BF8D84}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{237B8E18-EC3B-4C17-9812-90FD44BF8D84}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|solutionrelative:OOP_lab_2.6\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\OOP_lab_2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D24D03A0-20B1-4A50-971E-C381D289972A}|OOP_lab_2.6\\OOP_lab_2.6.vcxproj|solutionrelative:OOP_lab_2.6\\OOP_lab_2.6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OOP_lab_2.6.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\OOP_lab_2.6.cpp",
+              "RelativeDocumentMoniker": "OOP_lab_2.6\\OOP_lab_2.6.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\OOP_lab_2.6.cpp",
+              "RelativeToolTip": "OOP_lab_2.6\\OOP_lab_2.6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T10:01:10.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Complex.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.cpp",
+              "RelativeDocumentMoniker": "OOP_lab_2.6\\Complex.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.cpp",
+              "RelativeToolTip": "OOP_lab_2.6\\Complex.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T09:28:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Complex.h",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.h",
+              "RelativeDocumentMoniker": "OOP_lab_2.6\\Complex.h",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\OOP_lab_2.6\\Complex.h",
+              "RelativeToolTip": "OOP_lab_2.6\\Complex.h",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T09:24:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OOP_lab_2.6\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T10:02:12.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
